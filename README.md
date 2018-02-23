@@ -1,0 +1,2 @@
+# pocketio
+Python socket.io
